@@ -10,7 +10,7 @@ Installation and Commands
   docker-compose up
 
 3. Test if django application is working by hitting below url in your browser
-  http://localhost:8000/
+   http://localhost:8000/
 
 5. APIs for the assignment:
 
