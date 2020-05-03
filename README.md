@@ -27,4 +27,5 @@ Installation and Commands
    
     http://localhost:8000/numeric_entity_api/
 
-  
+
+6. Size of docker image is approximately 950 MB.  
